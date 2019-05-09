@@ -8,6 +8,7 @@ PhpBB application developers will be able to facilitate the integration of the f
 Installation and configuration on phpBB see : 
 - <a href="https://oa.dnc.global/web/-develop-.html?lang=en#openidconnectextensionforphpbb">English (en)</a> 
 - <a href="https://oa.dnc.global/web/-Ressources-pour-les-developpeurs-.html?lang=fr#extensionopenidconnectpourphpbb">Français (fr)</a>
+
 Please note that phpBB uses the Lusitanian/PHPoAuthLib library to implement SSO with OIDC. You need to install the OAuthSD Service for Lusitanian / PHPoAuthLib.  
 
 More on OAuthSD OpenID Connect Server :
