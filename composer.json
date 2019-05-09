@@ -1,0 +1,31 @@
+{
+    "name": "bdegoy/oauthsd-phpbb",
+    "type": "phpbb-extension",
+    "description": "OpenID Connect client for OAuthSD",
+    "homepage": "https://oa.dnc.global/web/-develop-.html#openidconnectextensionforphpbb",
+    "version": "0.1.0",
+    "time": "2018-12-18",
+    "keywords": ["phpbb", "extension", "dnc", "oauth", "oidc"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Bertrand Degoy",
+            "email": "bertrand@degoy.com",
+            "homepage": "https://degoy.com/",
+            "role": "Manager"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "composer/installers": "~1.0"
+    },
+    "require-dev": {
+        "phpbb/epv": "dev-master"
+    },
+    "extra": {
+        "display-name": "DnC OIDC client for OAuthSD",
+        "soft-require": {
+            "phpbb/phpbb": "~3.2"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+services:
+    auth.provider.oauth.service.oauthsd:
+        class: dnc\oauthsd\oauthsd
+        arguments:
+            - @config
+            - @request
+        tags:
+            - { name: auth.provider.oauth.service }
