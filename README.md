@@ -1,5 +1,5 @@
 # oauthsd-phpbb
-OpenID Connect client for OAuthSD
+phpBB extension OpenID Connect client for OAuthSD
 
 An OIDC client for phpBB. Allows phpBB to use OpenID Connect instead of traditional authentication. (Warning: not to be confused with OpenID extension!)
 
