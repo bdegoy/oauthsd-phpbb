@@ -17,7 +17,7 @@ use OAuth\Common\Http\Uri\UriInterface;
 * @author Bertrand Degoy bertrand@degoy.com
 * @copyright (c) 2018 B.Degoy DnC https://degoy.com
 */
-class OAuthSD extends AbstractService
+class Oauthsd extends AbstractService
 {
     /**
      * Defined scopes
