@@ -9,7 +9,7 @@ Installation and configuration on phpBB see :
 - <a href="https://oa.dnc.global/web/110">English (en)</a> 
 - <a href="https://oa.dnc.global/web/68">Français (fr)</a>
 
-phpBB uses the Lusitanian/PHPoAuthLib library to implement SSO with OIDC. The OAuthSD Service for Lusitanian / PHPoAuthLib is included.  
+phpBB uses the Lusitanian/PHPoAuthLib library to implement SSO with OIDC. The OAuthSD Service for Lusitanian/PHPoAuthLib is included in .../oauthsd-phpbb/OAuth/OAuth2/Service/Oauthsd.php and should be copied to .../vendor/lusitanian/oauth/src/OAuth/OAuth2/Service/ folder.  
 
 More on OAuthSD OpenID Connect Server :
 - <a href="https://oa.dnc.global/web/-en-.html">English (en)</a>
