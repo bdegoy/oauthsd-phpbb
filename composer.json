@@ -23,7 +23,7 @@
         "phpbb/epv": "dev-master"
     },
     "extra": {
-        "display-name": "DnC OIDC client for OAuthSD",
+        "display-name": "OpenID Connect Client Extension for phpBB",
         "soft-require": {
             "phpbb/phpbb": "~3.2"
         }

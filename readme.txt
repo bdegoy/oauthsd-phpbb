@@ -1,4 +1,4 @@
-OpenID Connect Extension for phpBB
+OpenID Connect Client Extension for phpBB
 
 version : see composer.json
 
