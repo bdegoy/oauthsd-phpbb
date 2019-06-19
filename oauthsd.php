@@ -18,9 +18,10 @@ namespace dnc\oauthsd;
 /**
 * OAuthSD OAuth service
 * OpenID Connect Authentication with OAuthSD
-* @link https://oa.dnc.global
+* @link https://oa.dnc.global/web/110
 * @author Bertrand Degoy bertrand@degoy.com
-* @copyright (c) 2018 B.Degoy DnC https://degoy.com
+* @copyright (c) 2018-2019 B.Degoy DnC https://degoy.com
+* licence GPL v2.0
 */
 class oauthsd extends \phpbb\auth\provider\oauth\service\base
 {
