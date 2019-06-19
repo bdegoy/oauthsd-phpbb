@@ -1,5 +1,6 @@
 OpenID Connect Extension for phpBB
-dnc3
+
+version : see composer.json
 
 phpBB uses the Lusitanian/PHPoAuthLib library. 
 The OAuthSD Service for Lusitanian/PHPoAuthLib is included in 

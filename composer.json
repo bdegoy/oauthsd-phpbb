@@ -2,9 +2,9 @@
     "name": "bdegoy/oauthsd-phpbb",
     "type": "phpbb-extension",
     "description": "OpenID Connect client for OAuthSD",
-    "homepage": "https://oa.dnc.global/web/-develop-.html#openidconnectextensionforphpbb",
-    "version": "0.1.0",
-    "time": "2018-12-18",
+    "homepage": "https://oa.dnc.global/web/110",
+    "version": "0.1.1",
+    "time": "2019-06-19",
     "keywords": ["phpbb", "extension", "dnc", "oauth", "oidc"],
     "license": "GPL-2.0",
     "authors": [
